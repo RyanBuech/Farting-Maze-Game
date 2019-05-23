@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\ryanb\documents\sdllinktest\sdllinktest\main.cpp(695): warning C4101: 'playerHUD': unreferenced local variable
+c:\users\ryanb\documents\sdllinktest\sdllinktest\main.cpp(696): warning C4101: 'enemyHUD': unreferenced local variable
+MSVCRTD.lib(initializers.obj) : warning LNK4098: defaultlib 'msvcrt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+  SDLLinkTest.vcxproj -> C:\Users\ryanb\Documents\SDLLinkTest\Debug\SDLLinkTest.exe
+  SDLLinkTest.vcxproj -> C:\Users\ryanb\Documents\SDLLinkTest\Debug\SDLLinkTest.pdb (Partial PDB)
